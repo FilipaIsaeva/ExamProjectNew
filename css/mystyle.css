@@ -454,9 +454,9 @@ a desktop version.*/
     
 }
 #fade2 {
-    -webkit-animation-delay: -6s;   
+    -webkit-animation-delay: 2s;   
 }
 
 #fade3 {
-    -webkit-animation-delay: -4s; 
+    -webkit-animation-delay: 4s; 
 }
